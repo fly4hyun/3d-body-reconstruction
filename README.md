@@ -82,13 +82,35 @@
 
 ## Image Assets
 
-```markdown
-![LVD 논문 이미지](assets/lvd_paper.jpg)
-![ICON 논문 이미지](assets/icon_paper.jpg)
-![LVD / ICON 입력 결과 비교](assets/lvd_icon_inputs_outputs.jpg)
-![ICON 단독 vs LVD+ICON 결합 비교](assets/icon_vs_lvdicon.jpg)
-![KIMES 2023 시연](assets/kimes2023_demo.jpg)
-```
+### 1) LVD 논문 대표 이미지
+
+<p align="center">
+  <img src="assets/lvd_paper.jpg" width="860"/>
+</p>
+
+### 2) ICON 논문 대표 이미지
+
+<p align="center">
+  <img src="assets/icon_paper.jpg" width="860"/>
+</p>
+
+### 3) LVD / ICON 각각 동일 입력 결과 비교
+
+<p align="center">
+  <img src="assets/lvd_icon_inputs_outputs.jpg" width="860"/>
+</p>
+
+### 4) ICON 단독 vs LVD+ICON 결합 결과 비교
+
+<p align="center">
+  <img src="assets/icon_vs_lvdicon.jpg" width="860"/>
+</p>
+
+### 5) KIMES 2023 시연
+
+<p align="center">
+  <img src="assets/kimes2023_demo.jpg" width="860"/>
+</p>
 
 ## Notes on Disclosure
 
