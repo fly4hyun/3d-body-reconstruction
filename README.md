@@ -49,18 +49,20 @@
 
 ---
 
-## Quantitative Evaluation (10명 기준)
+## 정량 평가 (10명 기준)
 
-| Metric      | Avg Error |
-| ----------- | --------: |
-| **Overall** |    **7%** |
-| Body weight |        8% |
-| Neck        |       13% |
-| Chest       |        4% |
-| Abdomen     |        6% |
-| Arm         |        9% |
-| Hip         |        3% |
-| Thigh       |        5% |
+| 항목        |  평균 오차 |
+| --------- | -----: |
+| **전체 평균** | **7%** |
+| 몸무게       |     8% |
+| 목 둘레      |    13% |
+| 가슴 둘레     |     4% |
+| 배 둘레      |     6% |
+| 팔 둘레      |     9% |
+| 엉덩이 둘레    |     3% |
+| 허벅지 둘레    |     5% |
+
+
 
 > 참고: 4방향 입력의 경우 자세 불일치(거북목, 팔 각도 등)로 단일 이미지 대비 오차 증가 경향
 
@@ -80,30 +82,22 @@
 
 ---
 
-## Image Assets (README에 삽입용)
+## Image Assets
 
-> 아래 파일명으로 저장 후 README에 삽입하세요. (한 장으로 구성 권장)
+1. **LVD 논문 대표 이미지**
+   `assets/lvd_paper.jpg`
 
-1. **논문/모델 개념 이미지 콜라주**
-   `assets/lvd_icon_papers.jpg`  — LVD/ICON 논문 대표 도식 요약
+2. **ICON 논문 대표 이미지**
+   `assets/icon_paper.jpg`
 
-2. **입·출력 샘플 (단일 이미지 → 3D)**
-   `assets/sample_inout_single.jpg`  — 입력 사진, LVD 결과, ICON 결과, LVD+ICON 결과 비교
+3. **LVD / ICON 각각에 동일 이미지 입력 결과 비교**
+   `assets/lvd_icon_inputs_outputs.jpg`
 
-3. **ICON vs LVD+ICON 비교**
-   `assets/icon_vs_lvdicon.jpg` — ICON 단독 결과 대비 체형 반영성 개선 사례
+4. **ICON 단독 vs LVD+ICON 결합 결과 비교**
+   `assets/icon_vs_lvdicon.jpg`
 
-4. **KIMES 2023 현장 사진**
-   `assets/kimes2023_demo.jpg` — 부스/시연 장면
-
-> 예시 삽입 마크다운
->
-> ```markdown
-> ![LVD & ICON Papers](assets/lvd_icon_papers.jpg)
-> ![Single Image → 3D Outputs](assets/sample_inout_single.jpg)
-> ![ICON vs LVD+ICON](assets/icon_vs_lvdicon.jpg)
-> ![KIMES 2023 Demo](assets/kimes2023_demo.jpg)
-> ```
+5. **KIMES 2023 시연 사진**
+   `assets/kimes2023_demo.jpg`
 
 ---
 
