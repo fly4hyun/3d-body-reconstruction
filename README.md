@@ -85,19 +85,19 @@
 ## Image Assets
 
 1. **LVD 논문 대표 이미지**
-   `assets/lvd_paper.jpg`
+   `assets/lvd_paper.png`
 
 2. **ICON 논문 대표 이미지**
-   `assets/icon_paper.jpg`
+   `assets/icon_paper.png`
 
 3. **LVD / ICON 각각에 동일 이미지 입력 결과 비교**
-   `assets/lvd_icon_inputs_outputs.jpg`
+   `assets/lvd_icon_inputs_outputs.png`
 
 4. **ICON 단독 vs LVD+ICON 결합 결과 비교**
-   `assets/icon_vs_lvdicon.jpg`
+   `assets/icon_vs_lvdicon.png`
 
 5. **KIMES 2023 시연 사진**
-   `assets/kimes2023_demo.jpg`
+   `assets/kimes2023_demo.png`
 
 ---
 
